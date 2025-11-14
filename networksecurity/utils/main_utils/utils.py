@@ -6,8 +6,8 @@ import numpy as np
 #import dill
 import pickle
 
-from sklearn.metrics import r2_score
-from sklearn.model_selection import GridSearchCV
+from sklearn.metrics import r2_score # type: ignore
+from sklearn.model_selection import GridSearchCV # type: ignore
 
 def read_yaml_file(file_path: str) -> dict:
     try:
