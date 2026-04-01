@@ -231,10 +231,8 @@ The app is containerized using a slim Python 3.11 Docker image and exposes port 
 
 ## License
 
-Add your preferred license here.
-
+GNU GENERAL PUBLIC LICENSE.
 ---
 
 ## Author
-
-**Pranav Tupe**
+Sankalp Wanjari
